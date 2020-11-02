@@ -22,6 +22,7 @@ I hope to become a better communicator through digital medium from this course. 
 Practice from week 2 with Flourish:
 <div class="flourish-embed flourish-chart" data-src="visualisation/4213134"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 Another practice chart with Datawrapper:
 <iframe title="65+ Population vs Government Pension Spending" aria-label="chart" id="datawrapper-chart-3M1Vq" src="https://datawrapper.dwcdn.net/3M1Vq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="390"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
