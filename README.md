@@ -19,4 +19,5 @@ You can learn more about my work history on my [Linked In profile.](https://www.
 I hope to become a better communicator through digital medium from this course. I thought I was decent at writing and creating data visualizations, but a negative experience with blog-post writing in my previous job helped pushed me towards entering my current graduate program at CMU. It seems I had/have lots to learn not just about creating visualizations, but also telling stories with data. I'm a little worried that this class won't address writing skills in the ways I was hoping, but I believe the final project should offer some opportunity for practice there.
 
 # Portfolio
-Cool data viz's here!!
+Practice from week 2:
+<div class="flourish-embed flourish-chart" data-src="visualisation/4213134"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
