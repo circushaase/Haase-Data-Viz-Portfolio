@@ -1,7 +1,7 @@
 # Government Debt
 
 ## 2018 Standings
-From the OCED site, 2018 ratios only
+From the OECD site, 2018 ratios only
 
 <iframe src="https://data.oecd.org/chart/69HU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69HU" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
@@ -10,7 +10,7 @@ My version created with Flourish, including data from 1995-2018
 <div class="flourish-embed flourish-chart" data-src="visualisation/4285686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Comparing Trends: Japan shows concerning pattern
-OCED Countries' Debt-to-GDP ratios from 1995 - 2019. Select at least one country to focus the chart (and reduce the rainbow).
+OECD Countries' Debt-to-GDP ratios from 1995 - 2019. Select at least one country to focus the chart (and reduce the rainbow).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4286098"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
