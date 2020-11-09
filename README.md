@@ -29,4 +29,4 @@ I hope to become a better communicator through digital medium from this course. 
 </script>
 
 ### Assignement (week 2): Visualizing Government Debt
-Find the visualizations [I made here.](/dataviz2.md)
+Find the visualizations [I made here](/dataviz2.md) on Government Debt of OECD Countries.
