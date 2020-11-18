@@ -1,6 +1,6 @@
 # Critique by Redesign
 
-I chose to critique a chart by Our World in Data, which is the first visualization in an [article about the environmental impact of food production.] (https://ourworldindata.org/environmental-impacts-of-food). Here's the image for reference:
+I chose to critique a chart by Our World in Data, which is the first visualization in an [article about the environmental impact of food production.](https://ourworldindata.org/environmental-impacts-of-food). Here's the image for reference:
 
 
 ![Original chart on agriculture's environmental impact by Our World in Data](/What-are-the-environmental-impacts-of-agriculture.png)
@@ -14,7 +14,7 @@ Creating the wireframes helped me realize that I could convey the same data but 
 
 https://share.balsamiq.com/c/hk1UAzmvSQYFMpNHzrtR1V.png
 
-[My second wireframe, dropping the pie charts for bars.] (https://share.balsamiq.com/c/22qS4WFWuUjAtooYp7TGrN.png)
+[My second wireframe, dropping the pie charts for bars.](https://share.balsamiq.com/c/22qS4WFWuUjAtooYp7TGrN.png)
 https://share.balsamiq.com/c/22qS4WFWuUjAtooYp7TGrN.png
 
 
@@ -26,4 +26,5 @@ https://share.balsamiq.com/c/22qS4WFWuUjAtooYp7TGrN.png
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEN0iSyHRU&#x2F;view?embed">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEN0iSyHRU&#x2F;view?utm_content=DAEN0iSyHRU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Agriculture's Substantial Environmental Impact</a> by Lara
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEN0iSyHRU&#x2F;view?utm_content=DAEN0iSyHRU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Agriculture's Substantial Environmental Impact</a> 
+Data sources: Poore & Nemecek (2018); UN FAO; UN AQUASTAT; Bar-On et al. (2019). - via [OurWorldInData.org](https://ourworldindata.org/environmental-impacts-of-food)
