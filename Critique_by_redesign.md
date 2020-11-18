@@ -43,4 +43,3 @@ And finally...
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEN0iSyHRU&#x2F;view?utm_content=DAEN0iSyHRU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Agriculture's Substantial Environmental Impact</a> 
-Data sources: Poore & Nemecek (2018); UN FAO; UN AQUASTAT; Bar-On et al. (2019). - via [OurWorldInData.org](https://ourworldindata.org/environmental-impacts-of-food)
