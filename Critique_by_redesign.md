@@ -1,6 +1,6 @@
 # Critique by Redesign
 
-I chose to critique a chart by Our World in Data, which is the first visualization in an [article about the environmental impact of food production.](https://ourworldindata.org/environmental-impacts-of-food). Here's the image for reference:
+I chose to critique a chart by Our World in Data, which is the first visualization in an [article about the environmental impact of food production.](https://ourworldindata.org/environmental-impacts-of-food) Here's the image for reference:
 
 
 ![Original chart on agriculture's environmental impact by Our World in Data](/What-are-the-environmental-impacts-of-agriculture.png)
