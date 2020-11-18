@@ -2,7 +2,9 @@
 
 I chose to critique a chart by Our World in Data, which is the first visualization in an [article about the environmental impact of food production.] (https://ourworldindata.org/environmental-impacts-of-food). Here's the image for reference:
 
+
 ![Original chart on agriculture's environmental impact by Our World in Data](/What-are-the-environmental-impacts-of-agriculture.png)
+
 
 I chose this chart because my major policy interests are focused on food access, distribution, and agriculture. I'm particularly interested in sustainable food systems, and so I have been trying to learn about the current effects of agriculture on the environment. I came across this blog post and briefly skimmed it while working on a previous project analyzing nutrition versus environmental impact. I welcomed the opportunity to dig into it deeper. In this second review, I was a bit surprised to notice that a site devoted to data analysis writing created a visualization that was so unappealing, overwhelming and bit confusing, particularly since this is the FIRST visualization opening the blog post, giving an overview of the various topics to be covered further on. Though I felt the chart conveyed the information accurately, and used a pragmatic color scheme, the redundant and misaligned text detracts greatly from its effectiveness and the reader's ability to quickly understand the message.
 
