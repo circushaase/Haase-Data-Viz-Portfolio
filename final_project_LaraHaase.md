@@ -44,3 +44,5 @@ The approval of the Sustainable Development Goals in 2015 and increased internat
 ![Initial sketches part 2](/initial_sketches2.jpg)
 
 
+### Method and Medium
+I plan to create an entirely digital story on Shorthand, using visualizations, text and photos. I plan to use either R, Flourish, or Datawrapper to create my charts, depending upon the needs of the chart and the nature of the data. If there are already data visualizations that convey my point, that are appropriate I may use them, with proper citation of course. 
