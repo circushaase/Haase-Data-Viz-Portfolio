@@ -39,5 +39,8 @@ The approval of the Sustainable Development Goals in 2015 and increased internat
 
 ### Initial Sketches
 
+![Initial sketches part 1](/initial_sketches1.jpg)
+
+![Initial sketches part 2](/initial_sketches2.jpg)a
 
 
