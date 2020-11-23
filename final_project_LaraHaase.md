@@ -9,3 +9,5 @@ The USDA conducts the [Census of Agriculture](https://www.nass.usda.gov/AgCensus
 The data is available to explore and download publicly through this site https://quickstats.nass.usda.gov/ and can be downloaded in full via ftp [here](ftp://ftp.nass.usda.gov/quickstats/).
 I may supplement my story with additional data sources such as [Statista](https://www.statista.com/topics/1126/us-agriculture/) where needed.
 
+Story Arc 
+[Arc of the Story](/story_arc.jpg)
