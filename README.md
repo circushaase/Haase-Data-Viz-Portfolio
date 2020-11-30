@@ -19,6 +19,19 @@ You can learn more about my work history on my [Linked In profile.](https://www.
 I hope to become a better communicator through digital medium from this course. I thought I was decent at writing and creating data visualizations, but a negative experience with blog-post writing in my previous job helped pushed me towards entering my current graduate program at CMU. It seems I had/have lots to learn not just about creating visualizations, but also telling stories with data. I'm a little worried that this class won't address writing skills in the ways I was hoping, but I believe the final project should offer some opportunity for practice there.
 
 # Portfolio
+
+## Final Project
+### Initial Outline and Sketches
+I began establishing the storyline of my final project, focused on the US Agriculture Industry, by creating hand-drawn sketches and laying out a story arc. Check them out [here](/final_project_LaraHaase.md)a
+
+## Critique by Redesign
+[Redesigning a visualization as a form of critique](/Critique_by_redesign.md)
+
+
+## Assignment (week 2): Visualizing Government Debt
+Find the visualizations [I made here](/dataviz2.md) on Government Debt of OECD Countries.
+
+
 ### Practice from week 2 
 #### with Flourish:
 <div class="flourish-embed flourish-chart" data-src="visualisation/4213134"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -28,5 +41,3 @@ I hope to become a better communicator through digital medium from this course. 
 <iframe title="65+ Population vs Government Pension Spending" aria-label="chart" id="datawrapper-chart-3M1Vq" src="https://datawrapper.dwcdn.net/3M1Vq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="390"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### Assignement (week 2): Visualizing Government Debt
-Find the visualizations [I made here](/dataviz2.md) on Government Debt of OECD Countries.
