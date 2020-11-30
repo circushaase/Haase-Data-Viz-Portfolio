@@ -22,10 +22,13 @@ I hope to become a better communicator through digital medium from this course. 
 
 ## Final Project
 ### Initial Outline and Sketches
-I began establishing the storyline of my final project, focused on the US Agriculture Industry, by creating hand-drawn sketches and laying out a story arc. Check them out [here](/final_project_LaraHaase.md)a
+I began establishing the storyline of my final project, focused on the US Agriculture Industry, by creating hand-drawn sketches and laying out a story arc. Check them out [here](/final_project_LaraHaase.md).
+
+
 
 ## Critique by Redesign
 [Redesigning a visualization as a form of critique](/Critique_by_redesign.md)
+
 
 
 ## Assignment (week 2): Visualizing Government Debt
