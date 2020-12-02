@@ -8,7 +8,7 @@ what it means, & what you can do</p></div>
 
 
 # User Research
-After finishing a draft of the storyboard on Shorthand, I conducted Yser Research and got the following results:
+After finishing a draft of the storyboard on Shorthand, I conducted User Research and got the following results:
 
 ## User 1
 - At first glance (before scrolling much), can you tell me what you think this is/about?:
