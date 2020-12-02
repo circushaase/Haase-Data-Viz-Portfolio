@@ -66,7 +66,7 @@ Hand drawn graphs are cut off and hard to read.
 
 It’s nice that you have the text on the same side the whole way down, it makes it easy to know where to look. Left is fine because we start reading left to right. If the visualizations are the most important then maybe they should all go on the left. If it’s a toss up up, then it doesn’t necessarily matter which size. Maybe it would make more sense to make the text smaller, and only take up maybe 25% rather than 50 % of the space. 
 
--Any other thoughts, suggestions, critiques?
+- Any other thoughts, suggestions, critiques?
 
 It looks really nice. You have a good light and dark balance. Keep up the good work!
 
