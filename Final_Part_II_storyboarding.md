@@ -6,7 +6,6 @@ To layout my story, it made the most sense to build a mock-up directly in Shorth
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/america-eats/"><h1>America Eats</h1><p>How the US Agriculture System has changed, 
 what it means, & what you can do</p></div>
 
-
 # User Research
 After finishing a draft of the storyboard on Shorthand, I conducted User Research and got the following results:
 
