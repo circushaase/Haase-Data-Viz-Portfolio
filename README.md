@@ -22,7 +22,14 @@ I hope to become a better communicator through digital medium from this course. 
 
 ## Final Project
 ### Initial Outline and Sketches
-I began establishing the storyline of my final project, focused on the US Agriculture Industry, by creating hand-drawn sketches and laying out a story arc. Check them out [here](/final_project_LaraHaase.md).
+I began establishing the storyline of my final project, focused on the US Agriculture Industry, by creating hand-drawn sketches and laying out a story arc. Check them out [here](/Final_Project_Part_I.md).
+
+### Storyboarding and User Research
+I used hand-drawn chart mock ups and filler text on Shorthand.com to layout my story and begin building its design features. I then did three user interviews to get feedback on how to improve the story and user experience. Check out the steps in my process [here](/Final_Project_Part_II_storyboarding.md).
+
+### Final Draft
+Once getting the appropiate data and wrangling it, I began creating visualizations, primarily with FLourish. I also wrote up the text body and incorporated user feedback. 
+Read about the last steps in the final process [here](/Final_Project_Part_III.md).
 
 
 
